@@ -3,6 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "swiper": "^6.3.5"
+    "swiper": "^6.4.1"
   }
 }
